@@ -42,7 +42,7 @@ After installation run the program.
 
 or for using a file
 
-..code-block:: bash
+.. code-block:: bash
 
     $ weblookup -f bar.txt
 
