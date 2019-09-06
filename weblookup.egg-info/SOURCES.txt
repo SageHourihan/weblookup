@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+weblookup/__init__.py
+weblookup/command_line.py
+weblookup/weblookup.py
+weblookup.egg-info/PKG-INFO
+weblookup.egg-info/SOURCES.txt
+weblookup.egg-info/dependency_links.txt
+weblookup.egg-info/entry_points.txt
+weblookup.egg-info/top_level.txt
