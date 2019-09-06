@@ -41,6 +41,9 @@ After installation run the program.
     $ weblookup -w https://www.foo.com
 
 or for using a file
+
+..code-block:: bash
+
     $ weblookup -f bar.txt
 
 .. note ::
